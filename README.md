@@ -15,8 +15,8 @@ This project showcases an interactive Power BI dashboard built using Amazon’s 
 - Who are the most profitable customers?
 
 - What are the top profit-making and loss-making products?
+![Dashboard](https://github.com/user-attachments/assets/7154197c-c141-4f1c-9099-a7f87b386628)
 
-<img width="1362" height="746" alt="Amazon " src="https://github.com/user-attachments/assets/5fc69465-7d08-44ab-b842-5144b4f69da1" />
 
 🚀 Key Features
 
